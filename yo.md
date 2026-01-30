@@ -2,7 +2,7 @@
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/1458a833-3285-4f91-9b8b-22c7ecb822ed" />
 
 Mi nombre es Fabio Alexander Sierra Matamoros. Me formé en **psicología** y luego hice una **Maestría en Epidemiología Clínica** en la *Universidad Nacional de Colombia*. Pero más allá de eso soy ***padre*** de María José y ***esposo*** de Jenny Marcela. 
-# ¿Cuáles son mis intereses académicos?
+# ¿Cuáles son mis intereses académicos? :technologist:
 Me gusta toda la **epidemiología clínica**, pero últimamente me ha interesado:
 La medición y la validación de instrumentos de medición de constructos.
 - El análisis de supervivencia.
