@@ -20,6 +20,9 @@ La medición y la validación de instrumentos de medición de constructos.
 En el área de epidemiología clínica en la Fundación Universitaria de Ciencias de la Salud FUCS, Universidad Nacional de Colombia y Pontificia Universidad Javeriana[^3].
 # ¿Qué me gusta hacer?
 Me encanta tejer, dibujar, jugar con mi hija y salir a pasear. 
+## Otros intereses
+No tengo mascota, pero me gustan los perros, especialmente el Border Collie, considerado como el perro más inteligente[^4]. Espero tener uno cuando mi hija esté lista para ayudar a cuidarlo.
 [^1]: Relacionados con la validación de escalas, como el análisis factorial exploratorio y confirmatorio
 [^2]: sobre la eficacia y efectividad de una intervención en espiritualidad para disminuir ansiedad, depresión y mejorar la calidad de vida en pacientes con cáncer de mama avanzado.
 [^3]: [link text](https://perfilesycapacidades.javeriana.edu.co/es/persons/sierraf/)
+[^4]: https://www.clinicaraza.com/blog/clinica-raza-3/post/curiosidades-de-raza-border-collie-el-perro-mas-inteligente-53
